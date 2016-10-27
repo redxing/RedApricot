@@ -1,2 +1,2 @@
 # RedApricot
-A chrome proxy extension for developers.
+A very fast & simple chrome proxy extension for China developers.
