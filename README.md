@@ -1,7 +1,7 @@
 # RedApricot
 <strong>A very fast & simple chrome proxy extension for China developers.</strong>
 # Update Log
-2017-5-28:  <strong>Traffic limit to use 45GB/Monthly 555GB/yearly 135GB/Quarterly<hr>
+2017-11-11:  <strong>Traffic limit to use 45GB/Monthly 555GB/yearly 135GB/Quarterly<hr>
 2017-5-28:  <strong>Added fast cache node TaiWan,JP,JP1,Korean,HongKong & Add Shadowsocks for VIP<hr>
 2017-1-14:  <strong>Added fast cache node for SG<hr>
 2016-12-5:  <strong>Added kcptun for US node, faster & stable<hr>
